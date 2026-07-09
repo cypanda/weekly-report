@@ -1,4 +1,5 @@
 # 🗓️ Weekly Report | Your Mac Personal Time Management Assistant
+**🇺🇸 English** | [🇨🇳 简体中文](./README.md)
 Are you used to tracking your schedule with Apple Calendar, only to find out at the end of the week that Apple natively doesn't support weekly statistics, and calculating it manually takes forever?
 
 Weekly Report is the minimalist assistant built exactly for this! With just one terminal command, it automatically reads your local calendar, instantly calculates your time spent, and teams up with AI to generate a beautifully formatted Markdown weekly report.
