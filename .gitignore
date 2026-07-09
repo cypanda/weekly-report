@@ -29,3 +29,7 @@ outputs/
 # 忽略临时测试日志
 /tmp/
 *.log
+
+#obsidian文件
+.obsidian/
+app.json
