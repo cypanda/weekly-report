@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "fa9c0cce559dd471",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7480b5aef99acca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b62522e79141928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README-EN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README-EN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d0beeba176ac749",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb91a7d0bf8dcb34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a75323efc036e61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "94f244a5371b85be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "60d710dc03585da4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f7ed56fa8011383",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ff4b78f013640eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27e3536cd2920ee1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "V1版—固定需求.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "V1版—固定需求 的反向链接列表"
+            }
+          },
+          {
+            "id": "41a5dd3e4fa11f54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "V1版—固定需求.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "V1版—固定需求 的出链列表"
+            }
+          },
+          {
+            "id": "a1c2b9ea9a281549",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4e50456c14d5eb2c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ed1afaf64cf297fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README-EN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README-EN 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "8b62522e79141928",
+  "lastOpenFiles": [
+    "README.md",
+    "README-EN.md",
+    "README.txt",
+    "src/weekly_report.egg-info/top_level.txt",
+    "src/weekly_report.egg-info/requires.txt",
+    "src/weekly_report.egg-info/entry_points.txt",
+    "src/weekly_report.egg-info/dependency_links.txt",
+    "src/weekly_report.egg-info/SOURCES.txt",
+    "src/weekly_report.egg-info/PKG-INFO",
+    "src/weekly_report.egg-info",
+    "src/cli.py",
+    "setup.py",
+    "outputs/weekly/2026-06-29_2026-07-05.md",
+    "docs/月报重构优化/GitHub化需求与问题.md",
+    "docs/github化/初始化流程.md",
+    "docs/月报重构优化/github改造的任务优先级.md",
+    "docs/github化/产品化步骤.md",
+    "docs/V1.0/V1版—固定需求.md",
+    "docs/V1.0/周报模版.md",
+    "docs/deepseek api.md",
+    "docs/V1.0/整体数据流程图2.md",
+    "docs/V1.0/整体数据流.md",
+    "docs/V1.0/整体方案.md",
+    "docs/V1.0/问题记录.md",
+    "docs/V1.0/数据流程图.md",
+    "docs/月报重构优化/软件架构图.png",
+    "docs/V1.0/软件架构图.md",
+    "docs/V1.0/架构优化任务.md",
+    "docs/V1.0/调用关系图.md",
+    "outputs/weekly/2026-06-22_2026-06-28.md",
+    "outputs/weekly/2026-07-06_2026-07-12.md",
+    "docs/ChatGPT Image 2026年7月4日 20_13_16.png",
+    "问题记录.md",
+    "docs/git的操作说明.md",
+    "架构优化任务.md",
+    "调用关系图.md",
+    "数据流程图.md",
+    "软件架构图.md"
+  ]
+}
